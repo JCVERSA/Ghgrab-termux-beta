@@ -25,7 +25,7 @@ An interactive, dependency-free GitHub repository browser and partial downloader
 3. **Clone this repository** (or copy the files):
    ```bash
    git clone https://github.com/JCVERSA/Ghgrab-termux-beta.git
-   cd ghgrab-termux-beta
+   cd Ghgrab-termux-beta
    ```
    *(Replace the URL with the actual repository location.)*
 4. **(Optional) Set a GitHub token** for higher rate limits:
